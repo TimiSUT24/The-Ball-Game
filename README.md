@@ -8,3 +8,7 @@ How To Run:
 
 OBS! This is an old project that i created in highschool and only works in windows as far as i believe.
 Alot of the files in github maybe not be very organized (:. 
+Press Del to quit the game! 
+
+![bild_2025-03-14_120033494](https://github.com/user-attachments/assets/70a21969-e0ab-4983-bb33-c5c916db2268)
+
